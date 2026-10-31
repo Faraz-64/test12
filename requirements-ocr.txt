@@ -1,0 +1,2 @@
+# Optional: scanned PDFs.   pip install -r requirements-ocr.txt     (plus the Tesseract program, see README)
+pytesseract

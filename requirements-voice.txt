@@ -1,0 +1,4 @@
+# Optional: voice.   pip install -r requirements-voice.txt     (plus the Vosk model, see README)
+vosk              # offline speech-to-text
+sounddevice       # microphone access
+pyttsx3           # offline text-to-speech

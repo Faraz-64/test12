@@ -1,0 +1,18 @@
+2026-10-26 05:36:27,877 WARNING semantic search unavailable: I couldn't reach Ollama for embeddings
+2026-10-27 01:00:05,527 WARNING semantic search unavailable: I couldn't reach Ollama for embeddings
+2026-10-27 01:02:58,402 WARNING semantic search unavailable: the embedding model 'nomic-embed-text' isn't installed. Run: ollama pull nomic-embed-text
+2026-10-27 01:08:30,348 WARNING semantic search unavailable: the embedding model 'nomic-embed-text' isn't installed. Run: ollama pull nomic-embed-text
+2026-10-28 23:29:13,523 INFO tool take_screenshot {} -> ok
+2026-10-28 23:34:49,605 WARNING semantic search unavailable: the embedding model 'nomic-embed-text' isn't installed. Run: ollama pull nomic-embed-text
+2026-10-28 23:36:20,923 WARNING semantic search unavailable: the embedding model 'nomic-embed-text' isn't installed. Run: ollama pull nomic-embed-text
+2026-10-28 23:39:15,026 WARNING semantic search unavailable: the embedding model 'nomic-embed-text' isn't installed. Run: ollama pull nomic-embed-text
+2026-10-28 23:44:44,968 WARNING semantic search unavailable: the embedding model 'nomic-embed-text' isn't installed. Run: ollama pull nomic-embed-text
+2026-10-28 23:47:54,271 WARNING semantic search unavailable: the embedding model 'nomic-embed-text' isn't installed. Run: ollama pull nomic-embed-text
+2026-10-28 23:49:45,003 INFO tool open_app {'name': 'novelphonix'} -> I don't have an app called 'novelphonix'. Try /apps to see what I can open.
+2026-10-28 23:51:33,864 WARNING semantic search unavailable: the embedding model 'nomic-embed-text' isn't installed. Run: ollama pull nomic-embed-text
+2026-10-28 23:52:58,307 INFO tool open_website {'site': 'youtube'} -> ok
+2026-10-29 00:17:39,512 WARNING semantic search unavailable: I couldn't reach Ollama for embeddings
+2026-10-29 00:18:16,081 WARNING model chose an invalid tool call (open_website): open_website.site must be one of: amazon, duckduckgo, github, gmail, google, maps, netflix, reddit, spotify, whatsapp, wikipedia, youtube
+2026-10-29 00:19:31,803 WARNING model chose an invalid tool call (open_website): open_website.site must be one of: amazon, duckduckgo, github, gmail, google, maps, netflix, reddit, spotify, whatsapp, wikipedia, youtube
+2026-10-29 00:20:51,281 INFO tool open_app {'name': 'youtube'} -> ok
+2026-10-29 00:33:50,702 INFO tool open_app {'name': 'default'} -> I don't have an app called 'default'. Try /apps to see what I can open.

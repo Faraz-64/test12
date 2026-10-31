@@ -1,0 +1,11 @@
+# Core + documents + screenshots + volume.   Install:   pip install -r requirements.txt
+# If one line fails (new Python versions sometimes lack a package), install the lines one at a time:
+#   foreach ($p in 'cryptography','ddgs','numpy','pypdf','python-docx','pillow','pycaw') { pip install $p }
+
+cryptography      # encrypted memory (required)
+ddgs              # web search
+numpy             # semantic memory + document retrieval by meaning
+pypdf             # PDF documents
+python-docx       # Word documents
+Pillow            # screenshots
+pycaw; sys_platform == "win32"    # Windows volume control
